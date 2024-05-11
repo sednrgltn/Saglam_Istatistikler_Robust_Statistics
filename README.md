@@ -1,2 +1,8 @@
 # Saglam_Istatistikler_Robust_Statistics
- Sağlam istatistik yöntemleri ile çeşitli hesaplamalar.
+Sağlam istatistik yöntemleri ile çeşitli hesaplamalar.
+Bu istatistiksel yöntemler, aykırı gözlemler veya veri dağılımının durumundan etkilenmeyen, genellikle parametrik olmayan istatistiksel tekniklerdir. Bu nedenle "Dayanıklı" veya "Sağlam" denilmektedir.
+Normal dağılımdan rastgele üretilmiş 30 veri üzerinden hesaplamalar yapılmıştır.
+
+Calculations with robust statistical methods.
+These statistical methods are generally non-parametric techniques that are not affected by outliers or the distribution of the data. Therefore, they are referred to as "robust".
+Calculations have been made on 30 data randomly generated from a normal distribution.
